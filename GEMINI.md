@@ -60,6 +60,18 @@
 | **Storybook**        | `storybook`      | UI 문서화 및 시각적 테스트 |
 | **Lint & TypeCheck** | `lint-typecheck` | 정적 분석 및 품질 관리     |
 
+### 🔌 MCP Servers (Integrated Tools)
+
+> 에이전트가 호출 가능한 외부 연동 서버.
+
+| 서버명                  | 기능                                        |
+| :---------------------- | :------------------------------------------ |
+| **Codex**               | 코드 편집, 리뷰, 커맨드 실행 (필수 사용)    |
+| **Chrome DevTools**     | 브라우저 디버깅, 콘솔 로그 및 네트워크 확인 |
+| **Playwright**          | 브라우저 자동화 및 E2E 테스트 수행          |
+| **Context7**            | 최신 라이브러리 문서 및 예제 검색           |
+| **Sequential Thinking** | 복잡한 문제 해결을 위한 사고 과정 전개      |
+
 ---
 
 ## 3. Tech Stack
